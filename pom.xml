@@ -63,7 +63,7 @@
     <wicketstuff.version>${wicket.version}</wicketstuff.version>
     <wicket-jquery-ui.version>${wicket.version}</wicket-jquery-ui.version>
     <lucene.version>7.3.1</lucene.version>
-    <elasticsearch.version>6.3.0</elasticsearch.version>
+    <elasticsearch.version>6.8.14</elasticsearch.version>
     <mtas.version>7.3.0.3</mtas.version>
     <rdf4j.version>2.5.1-inception-1</rdf4j.version>
     <mockito.version>2.23.4</mockito.version>
