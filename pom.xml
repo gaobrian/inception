@@ -59,7 +59,7 @@
     <dkpro.version>1.10.0</dkpro.version>
     <spring.version>5.1.7.RELEASE</spring.version>
     <spring.boot.version>1.5.21.RELEASE</spring.boot.version>
-    <wicket.version>8.3.0</wicket.version>
+    <wicket.version>8.10.0</wicket.version>
     <wicketstuff.version>${wicket.version}</wicketstuff.version>
     <wicket-jquery-ui.version>${wicket.version}</wicket-jquery-ui.version>
     <lucene.version>7.3.1</lucene.version>
