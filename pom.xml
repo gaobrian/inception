@@ -390,7 +390,7 @@
       <dependency>
         <groupId>com.googlecode.wicket-jquery-ui</groupId>
         <artifactId>wicket-kendo-ui</artifactId>
-        <version>${wicket-jquery-ui.version}</version>
+        <version>8.6.0</version>
       </dependency>
       <dependency>
         <groupId>com.googlecode.wicket-jquery-ui</groupId>
