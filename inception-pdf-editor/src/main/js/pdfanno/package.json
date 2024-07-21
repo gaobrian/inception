@@ -58,7 +58,7 @@
     "pako": "^1.0.6",
     "request": "^2.81.0",
     "request-promise": "^4.2.2",
-    "requirejs": "^2.3.5",
+    "requirejs": "^2.3.7",
     "semver": "^5.5.0",
     "toml": "github:yoheiMune/toml-node",
     "urijs": "^1.19.0",
