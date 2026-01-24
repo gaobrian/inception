@@ -57,7 +57,7 @@
     "gulp-htmlmin": "^4.0.0",
     "pako": "^1.0.6",
     "request": "^2.81.0",
-    "request-promise": "^4.2.2",
+    "request-promise": "^4.2.6",
     "requirejs": "^2.3.5",
     "semver": "^5.5.0",
     "toml": "github:yoheiMune/toml-node",
